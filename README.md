@@ -53,10 +53,3 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request detailing your changes.
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-🔗 [TypoBaazi-JS Repository](https://github.com/Spiatron/TypoBaazi-JS)
